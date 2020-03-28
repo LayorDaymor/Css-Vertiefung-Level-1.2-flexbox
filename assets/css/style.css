@@ -17,8 +17,7 @@ nav
     padding: 1rem;
 }
 ul
- {align-content: space-around;
-    justify-content: center;
+ {
     display: flex;
     justify-content: space-between;
     width: 40%;
